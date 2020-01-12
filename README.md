@@ -1,3 +1,5 @@
+A ReactJS + NodeJS App for library book management which allows issuing, return and viewing options of current books.
+
 Open the project directory in a terminal,
 Then cd to frontend and run "npm init" to install the dependencies.
 Again then cd to backend directory and run "npm init", atlast run the command "npm run dev" to start the app.
