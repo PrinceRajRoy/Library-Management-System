@@ -1,0 +1,25 @@
+#books {
+    margin: auto;
+    text-align: center;
+}
+
+#sel {
+    width: 35%;
+    margin: 10px auto;
+}
+
+#results {
+    margin: 25px auto;
+    width: 60%;
+    border-radius: 8px;
+    background-color: rgb(111, 167, 219);
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+#heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}

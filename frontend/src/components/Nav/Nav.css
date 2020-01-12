@@ -1,0 +1,30 @@
+#nav {
+    background-color: #2196F3;
+    min-height: 60px;
+    margin-bottom: 50px;
+}
+
+#nav ul {
+    list-style-type: none;
+    float: right;
+}
+
+#nav ul li {
+    display: inline;
+    padding: 10px 15px;
+    font-size: 1.3em;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: #282c34;
+}
+
+#nav span {
+    position: absolute;
+    float: none;
+    font-size: 1.5em;
+    top: 3.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
