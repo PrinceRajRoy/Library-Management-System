@@ -1,4 +1,4 @@
-`A ReactJS + NodeJS App for library book management which allows issuing, return and viewing options of current books in the library.`
+`A ReactJS + NodeJS App for library book management which allows issuing, returning and viewing options of current books in the library.`
 
 Open the project directory in a terminal,
 Then cd to frontend and run "npm init" to install the dependencies.
