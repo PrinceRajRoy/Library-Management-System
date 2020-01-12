@@ -1,14 +1,15 @@
-Please open the project directory in a terminal,
+Open the project directory in a terminal,
 Then cd to frontend and run "npm init" to install the dependencies.
 Again then cd to backend directory and run "npm init", atlast run the command "npm run dev" to start the app.
 Concurrently package is used for running backend and frontend simultaneously.
 Frontedn -> ReactJS.
 Backend -> NodeJS.
-The project uses MySQL Database, so for that I've used Xampp for creating the local server and mysql package.
+The project uses MySQL Database, so for that I've used Xampp for creating the local server as well as mysql package.
 
-The project creates the database and tables by itself but all the initial student and books data has to be inserted directly into the phpmyadmin tables, I'hv not created extra UI Forms for that due to time limit.
+The project creates the database and tables by itself but all the initial student and books data has to be inserted directly.
 
 Database -> library
+
 Tables -> book - Books in the library
           student - Students related data
           borrow - Stores the student and corresponding issued books.
