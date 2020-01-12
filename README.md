@@ -4,7 +4,7 @@ Open the project directory in a terminal,
 Then cd to frontend and run "npm init" to install the dependencies.
 Again then cd to backend directory and run "npm init", atlast run the command "npm run dev" to start the app.
 Concurrently package is used for running backend and frontend simultaneously.
-Frontedn -> ReactJS.
+Frontend -> ReactJS.
 Backend -> NodeJS.
 The project uses MySQL Database, so for that I've used Xampp for creating the local server as well as mysql package.
 
